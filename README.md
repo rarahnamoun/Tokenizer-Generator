@@ -1,4 +1,5 @@
 # 🎯 Automatic Tokenizer Generator for Low-Resource Languages 
+[![Technical Report](https://img.shields.io/badge/Technical%20Report-PDF-blue)](https://github.com/rarahnamoun/Tokenizer-Generator/blob/main/report.pdf)
 A self-adapting tokenization system that automatically generates and implements optimal tokenization strategies based on input text characteristics.
 ## ⚡ Overview
 This project introduces an innovative language-independent system that automatically generates and implements tokenizer algorithms based on input text characteristics. While specifically validated on Persian as a low-resource language case study, the system can adapt to various languages and text challenges through its automatic generation capabilities.
